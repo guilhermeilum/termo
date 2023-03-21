@@ -12,7 +12,7 @@ O problema que foi apresentado para a turma é sobre os parâmetros relevantes e
 
 ### Primeiro desafio
 
-O primeiro desafio proposto é a escolha da mistura para aplicarmos no Ciclo Rankine. A mistura escolhida pela dupla foi o Pentano(C<sub>5</sub>H<sub>12</sub>) e o Benzeno(C<sub>6</sub>H<sub>6</sub>).
+O primeiro desafio proposto é a escolha de uma mistura com potencial para fornecimento de energia ao ciclo Rankine (responsável pela geração de energia elétrica). A mistura escolhida pela dupla foi o Pentano(C<sub>5</sub>H<sub>12</sub>) e o Benzeno(C<sub>6</sub>H<sub>6</sub>).
 
 Para escolher a mistura adequada, foram considerados quatro critérios principais. O primeiro critério foi a entalpia, que mede a energia térmica envolvida na mistura. O segundo critério foi a disponibilidade de um diagrama de fases para a mistura, pois esse diagrama será essencial nas próximas etapas do trabalho. Como não haverá experimentos para coletar os dados, é necessário ter um diagrama de fases pronto para viabilizar os estudos.
 

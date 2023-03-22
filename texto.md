@@ -8,7 +8,7 @@
 
 O problema que foi apresentado para a turma é sobre os parâmetros relevantes envolvidos no funcionamento de um sistema composto por uma usina elétrica a vapor operando a partir da combustão de uma mistura líquida de combustíveis. INTRODUÇÃO CICLO RANKINE
 
-![Diagrama representativo](diagrama.png)
+![Diagrama representativo](imagem/diagrama.png)
 
 ### Primeiro desafio
 
@@ -20,5 +20,5 @@ Seguindo a mesma linha, o terceiro critério foi a "popularidade" dos componente
 
 Por fim, o quarto critério foi o baixo ponto de vaporização dos elementos da mistura. O Ciclo Rankine funciona a partir da energia gerada pelo vapor, de modo que quanto menor a temperatura de vaporização, menor será a energia necessária para aquecer e vaporizar a mistura. Tanto o benzeno quanto o pentano apresentam pontos de vaporização relativamente baixos, o que os torna bons candidatos para aplicação no Ciclo Rankine. A temperatura de vaporização do benzeno é 80.1°C e do pentano é 36.1°C (quase em temperatura ambiente).
 
-  ![Diagrama de fase.](https://www.researchgate.net/publication/299373797/figure/fig14/AS:1086726822985772@1636107273225/Binary-phase-diagrams-for-Pentane-C5H12-Benzene-C6H6-mixture-at-T-32815-K.jpg)
+  ![Diagrama de fase.](imagem/diagrama_fases.png)
 

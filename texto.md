@@ -1,16 +1,14 @@
 # Termodinamica avançada
 
-## Danielle dos Santos Chagas - 220038
 
-## Guilherme Gurian Dariani - 220044
 
-### Introdução
+## Introdução
 
 O problema que foi apresentado para a turma é sobre os parâmetros relevantes envolvidos no funcionamento de um sistema composto por uma usina elétrica a vapor operando a partir da combustão de uma mistura líquida de combustíveis. INTRODUÇÃO CICLO RANKINE
 
 ![Diagrama representativo](imagem/diagrama.png)
 
-### Primeiro desafio
+## Primeiro desafio
 
 O primeiro desafio proposto é a escolha de uma mistura com potencial para fornecimento de energia ao ciclo Rankine (responsável pela geração de energia elétrica). A mistura escolhida pela dupla foi o Pentano(C<sub>5</sub>H<sub>12</sub>) e o Benzeno(C<sub>6</sub>H<sub>6</sub>).
 

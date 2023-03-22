@@ -4,7 +4,8 @@
 
 ## Introdução
 
-O problema que foi apresentado para a turma é sobre os parâmetros relevantes envolvidos no funcionamento de um sistema composto por uma usina elétrica a vapor operando a partir da combustão de uma mistura líquida de combustíveis. INTRODUÇÃO CICLO RANKINE
+Esse trabalho será realizado durante a disciplina de termodinâmica avançada da Ilum escola de Ciência. O problema proposto é entender e estudar conceitos de potenciais termodinâmicos e interações moleculares a partir do estudo do Ciclo de Rankine. O ciclo Rankine é um processo termodinâmico que é a base de usinas a vapor que geram energia elétrica. Esse ciclo é constituído das seguintes etapas: i) um fluído de alta pressão é bombeado para dentro do ciclo (ii) e entra em uma caldeira, onde calor é adicionado a pressão constante para o líquido comprimido. iii) o vapor atinge a turbina, onde se expande adiabaticamente, esfria e acaba na pressão baixa original. (iv) Finalmente, o fluido parcialmente condensado é resfriado ainda mais em um condensador. (Schroeder, 1999)(Miller, 2011)
+Além disso, como observável no diagrama abaixo, outras fases anteriores e posteriores ao ciclo de Rankine também serão estudados. 
 
 ![Diagrama representativo](imagem/diagrama.png)
 
